@@ -19,3 +19,4 @@ How can we predict when equipment will fail and use this info to drive down Cono
 ## Given Datasets
 
 The data sets given by to us by ConocoPhillips are in this [folder](./equipfails)
+
