@@ -15,3 +15,11 @@ As with all mechanical equipment, things break and when things break money is lo
 ### Challenge
 
 How can we predict when equipment will fail and use this info to drive down ConocoPhillip's costs?
+
+
+## TEAM MEMBERS :
+
+Elda Piedade
+Erick Platero
+Chris Blank
+Moises Nunez
